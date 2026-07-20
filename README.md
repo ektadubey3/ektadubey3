@@ -2,9 +2,9 @@
 
 # Hi there 👋 I'm Ekta Dubey
 
-### 🚀 Frontend-Focused Full Stack Engineer | React • Next.js • TypeScript • AI Integrations
+### 🚀 Frontend Expert | Full Stack Capable | Angular • React • Next.js • TypeScript • AI Integrations
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+%26+Scalable+Web+Applications;React+%7C+Next.js+%7C+TypeScript+Lover;Frontend+Engineer+with+Backend+Superpowers;Gen+AI+%7C+RAG+%7C+Agentic+Workflows" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+%26+Scalable+Web+Applications;Angular+%7C+React+%7C+Next.js+%7C+TypeScript+Lover;Frontend+Engineer+with+Backend+Superpowers;Gen+AI+%7C+RAG+%7C+Agentic+Workflows" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ektadubey3&label=Profile+Views&color=0e75b6&style=flat" />
@@ -97,7 +97,7 @@ I love transforming complex ideas into elegant digital experiences using modern 
 <a style="margin-right:10px" href="https://linkedin.com/in/ektadubey3" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="ektadubey3" height="25" /></a>
 <a style="margin-right:10px" href="mailto:ektadubey.354@gmail.com" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=gmail" alt="ektadubey3" height="25" /></a>
 <a style="margin-right:5px" href="https://medium.com/@ektadubey" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=medium" alt="ektadubey3" height="25" /></a>
-<a href="https://topmate.io/ekta_dubey3" target="blank"><img align="center" src="https://cdn.brandfetch.io/idSE0oFcnS/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="ektadubey3" height="30" /></a>
+<a href="https://dev.to/ektadubey" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=dev" alt="ektadubey3" height="25" /></a>
 </p>
 
 ---
