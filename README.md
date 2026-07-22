@@ -2,9 +2,9 @@
 
 # Hi there 👋 I'm Ekta Dubey
 
-### 🚀 Frontend Expert | Full Stack Capable | Angular • React • Next.js • TypeScript • AI Integrations
+### 🚀 Frontend Expert | Full Stack | TypeScript • AI Integrations
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+%26+Scalable+Web+Applications;Angular+%7C+React+%7C+Next.js+%7C+TypeScript+Lover;Frontend+Engineer+with+Backend+Superpowers;Gen+AI+%7C+RAG+%7C+Agentic+Workflows" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+%26+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Angular+%7C+TypeScript+Lover;Frontend+Engineer+with+Backend+Superpowers;Gen+AI+%7C+RAG+%7C+Agentic+Workflows" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ektadubey3&label=Profile+Views&color=0e75b6&style=flat" />
@@ -68,16 +68,21 @@ I love transforming complex ideas into elegant digital experiences using modern 
 
 ---
 
-# 💡 Engineering Philosophy
+# 💡 Philosophy
 
-```text
-✨ Write code for humans.
-⚡ Performance is a feature.
-🎯 Simplicity beats cleverness.
-📦 Reusable > Repeatable.
-♿ Accessibility matters.
-🚀 Keep learning.
-```
+- ✨ Write code for humans.
+- ⚡ Performance is a feature.
+- 🎯 Simplicity beats cleverness.
+- 📦 Reusable > Repeatable.
+- ♿ Accessibility matters.
+- 🚀 Keep learning keep sharing.
+
+---
+
+# ✍🏻 My Latest Articles
+
+- 📝 [How AI-Assisted Development Improved My Productivity—Without Replacing My Thinking](https://dev.to/ektadubey/how-ai-assisted-development-improved-my-productivity-without-replacing-my-thinking-3djj)
+- 📝 [Stop Writing Angular That Only Works Today](https://dev.to/ektadubey/stop-writing-angular-that-only-works-today-5aah)
 
 ---
 
