@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Ekta Dubey
 
-### 🚀 Frontend Expert | Full Stack | TypeScript • AI Integrations
+### 🚀 Full Stack • TypeScript • AI Integrations
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+%26+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Angular+%7C+TypeScript+Lover;Frontend+Engineer+with+Backend+Superpowers;Gen+AI+%7C+RAG+%7C+Agentic+Workflows" />
 
@@ -17,11 +17,10 @@
 
 ## 👩‍💻 About Me
 
-✨ Frontend-focused Full Stack Engineer building scalable, performant, and AI enabled web applications.
+✨ Full Stack Engineer building scalable, performant, and AI enabled web applications.
 
 I love transforming complex ideas into elegant digital experiences using modern frontend technologies while leveraging backend and AI capabilities when needed.
 
-- ⚛️ Frontend is my playground.
 - 🚀 Performance is my obsession.
 - 🤖 AI is my newest teammate.
 - 🌱 Forever learning, forever building.
@@ -53,18 +52,8 @@ I love transforming complex ideas into elegant digital experiences using modern 
 # 🎯 Current Mission
 
 - 🚀 Teaching AI to be a better teammate
-- ⚛️ Mastering modern Frontend architecture
-- ⚡ Chasing 100/100 Lighthouse scores
+- ⚛️ Mastering modern Application architecture
 - 🌍 Sharing knowledge with the developer community
-
----
-
-# 🏆 Achievement Unlocked
-
-- 🏅 Survived legacy Angular projects
-- 🏅 Refactored code without breaking production
-- 🏅 Turned "It can't be done" into "It's deployed"
-- 🏅 Explained JavaScript closures... again 😄
 
 ---
 
@@ -74,7 +63,6 @@ I love transforming complex ideas into elegant digital experiences using modern 
 - ⚡ Performance is a feature.
 - 🎯 Simplicity beats cleverness.
 - 📦 Reusable > Repeatable.
-- ♿ Accessibility matters.
 - 🚀 Keep learning keep sharing.
 
 ---
